@@ -4,6 +4,7 @@ README file
 Author: Maria Kalimeri
 
 =========================================================================================
+BASIC INFO AND HOW TO RUN
 The main.gromos.clustering.R calls all the other functions in the folder. 
 The following description is included in the main.gromos.clustering.R
 
