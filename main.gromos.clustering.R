@@ -1,4 +1,10 @@
 # This main calls all the other functions in the folder
+#
+# How to run
+# From a terminal by typing
+# $ Rscript main.gromos.clustering.R
+# or from with in R by typing
+# > source("main.gromos.clustering.R")
 # 
 # WHAT IT DOES:
 # Gluster, i.e. group together according to similarity, snapshots of a dynamic 
