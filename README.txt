@@ -1,3 +1,5 @@
+Glustering, i.e. grouping together according to similarity, snapshots of a dynamic network.
+
 README file
 Author: Maria Kalimeri
 
