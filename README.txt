@@ -1,5 +1,8 @@
 Glustering, i.e. grouping together according to similarity, snapshots of a dynamic network.
 
+This code was written in the context of a collaboration with Dr. Fabio Sterpone 
+https://sites.google.com/site/sterponefabio/
+
 README file
 Author: Maria Kalimeri
 
