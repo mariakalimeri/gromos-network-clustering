@@ -1,6 +1,6 @@
 Glustering, i.e. grouping together according to similarity, snapshots of a dynamic network.
 
-This code was written in the context of a collaboration with Dr. Fabio Sterpone 
+This code was written in the context of a collaboration with Dr. Fabio Sterpone, LBT/IBPC, CNRS, Paris (France)
 https://sites.google.com/site/sterponefabio/
 
 README file
