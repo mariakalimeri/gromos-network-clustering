@@ -3,6 +3,9 @@ Glustering, i.e. grouping together according to similarity, snapshots of a dynam
 This code was written in the context of a collaboration with Dr. Fabio Sterpone, LBT/IBPC, CNRS, Paris (France)
 https://sites.google.com/site/sterponefabio/
 
+Reference: The code was used for the analysis performed in the following publication 
+"Configurational Disorder of Water Hydrogen-Bond Network at the Protein Dynamical Transition, Rahaman et all., J Phys Chem B, 2017, http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.7b03888
+
 README file
 Author: Maria Kalimeri
 
